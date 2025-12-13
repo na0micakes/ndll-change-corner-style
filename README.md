@@ -1,4 +1,8 @@
-Forked from https://github.com/CodenameCrew/ndll-example.
+# Change Window Corners (NDLL)
+Forked from [Codename Engine NDLL example](https://github.com/CodenameCrew/ndll-example).
+
+This was made to change the window corners using an ndll, this will only work on Windows 11.
+
 
 # Ndll Example
 
